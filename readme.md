@@ -14,7 +14,7 @@ Window> 설정 > 시스템 > 정보 > 관련링크 고급 시스템 설정 > 시
 
 # Python Environment
 
-Select Python Environment 에서 3.11.x (base) 환경 선택
+Select Python Environment 에서 Python 3.11.x ("base") Anaconda3 환경 선택
 
 Power Shell terminal 에서
 
