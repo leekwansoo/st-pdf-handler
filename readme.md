@@ -22,7 +22,6 @@ Power Shell terminal 에서
 
 (base) conda install -c conda-forge poppler
 
-Images for PDF-Handler
 
 PDF_Handler 초기화면
 
