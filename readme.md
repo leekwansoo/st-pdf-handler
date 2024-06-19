@@ -17,6 +17,7 @@ Window> 설정 > 시스템 > 정보 > 관련링크 고급 시스템 설정 > 시
 Select Python Environment 에서 3.11.x (base) 환경 선택
 
 Power Shell terminal 에서
+
 (base) conda activate
 
 (base) conda install -c conda-forge poppler
