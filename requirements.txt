@@ -4,9 +4,7 @@ poppler-utils
 pdf2image
 weasyprint
 openai
-pdf2
 python-dotenv
 pdfplumber
 spire
 spire.pdf
-pdf2image
